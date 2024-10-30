@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 16:57+0300\n"
+"PO-Revision-Date: 2022-04-22 16:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:72
+msgid "Please rate our free"
+msgstr "무료로 평가 해주세요"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Your valuable feedback will help us improve."
+msgstr "귀하의 소중한 의견은 개선하는 데 도움이됩니다."
+
+#: includes/ccwp-admin-notices.php:75
+msgid "It will only take a few minutes"
+msgstr "몇 분 밖에 걸리지 않습니다"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Rate it now"
+msgstr "지금 평가"
+
+#: includes/ccwp-admin-notices.php:76
+msgid "Rating"
+msgstr "평가"
+
+#: includes/ccwp-admin-settings.php:18 widget_init.php:111
+msgid "Settings"
+msgstr "설정"
+
+#: includes/ccwp-admin-settings.php:21
+msgid "Preview"
+msgstr "미리보기"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Language"
+msgstr "언어"
+
+#: includes/ccwp-admin-settings.php:29
+msgid "Select gradient"
+msgstr "그라디언트 선택"
+
+#: includes/ccwp-admin-settings.php:30
+msgid "Select color"
+msgstr "색상 선택"
+
+#: includes/ccwp-admin-settings.php:40
+msgid "Amount"
+msgstr "금액"
+
+#: includes/ccwp-admin-settings.php:51
+msgid "Base / Quote"
+msgstr "기본/견적"
+
+#: includes/ccwp-admin-settings.php:66
+msgid "Style"
+msgstr "스타일"
+
+#: includes/ccwp-admin-settings.php:89
+msgid "Direction"
+msgstr "방향"
+
+#: includes/ccwp-admin-settings.php:98
+msgid "Format"
+msgstr "형식"
+
+#: includes/ccwp-admin-settings.php:117
+msgid "Options"
+msgstr "옵션"
+
+#: includes/ccwp-admin-settings.php:123
+msgid "Large"
+msgstr "크게"
+
+#: includes/ccwp-admin-settings.php:124
+msgid "Shadow"
+msgstr "그림자"
+
+#: includes/ccwp-admin-settings.php:125
+msgid "Symbol"
+msgstr "심볼"
+
+#: includes/ccwp-admin-settings.php:130
+msgid "Grouping"
+msgstr "그룹화"
+
+#: includes/ccwp-admin-settings.php:131
+msgid "Border"
+msgstr "테두리"
+
+#: includes/ccwp-admin-settings.php:132
+msgid "Signature"
+msgstr "서명"
+
+#: includes/ccwp-admin-settings.php:134
+msgid "Radius"
+msgstr "반경"
+
+#: includes/ccwp-admin-settings.php:149
+msgid "Widget:"
+msgstr "위젯:"
+
+#: includes/ccwp-admin-settings.php:150
+msgid "Normal"
+msgstr "보통"
+
+#: includes/ccwp-admin-settings.php:151
+msgid "Multi"
+msgstr "다중"
+
+#: includes/ccwp-admin-settings.php:159
+msgid "Shortcode"
+msgstr "숏코드"
+
+#: includes/ccwp-admin-settings.php:175
+msgid "Help"
+msgstr "도움말"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Official website"
+msgstr "공식 웹 사이트"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Questions"
+msgstr "질문"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Online support"
+msgstr "온라인 지원"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Supported by"
+msgstr "지원"
+
+#: includes/ccwp-admin-settings.php:180
+msgid "Fiat money"
+msgstr "피아트 기호"
+
+#: includes/ccwp-admin-settings.php:186
+msgid "Install"
+msgstr "설치"
+
+#: includes/ccwp-admin-settings.php:188
+msgid "Generate shortcode from widget settings"
+msgstr "위젯 설정에서 단축 코드 생성"
+
+#: includes/ccwp-admin-settings.php:189
+msgid "Copy shortcode"
+msgstr "단축 코드 복사"
+
+#: includes/ccwp-admin-settings.php:190
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "게시물, 페이지 또는 외모로 이동 <b>&gt;&gt;</b> 위젯"
+
+#: includes/ccwp-admin-settings.php:191
+msgid "Paste shortcode to field"
+msgstr "필드에 단축 코드 붙여넣기"
+
+#: includes/ccwp-admin-settings.php:193
+msgid "FAQ"
+msgstr "자주 묻는 질문"
+
+#: includes/ccwp-admin-settings.php:195
+msgid "How manage the colour of the widget?"
+msgstr "위젯의 색상을 어떻게 관리합니까?"
+
+#: includes/ccwp-admin-settings.php:196
+msgid "There are two attributes:"
+msgstr "두 가지 속성이 있습니다."
+
+#: includes/ccwp-admin-settings.php:199
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style "
+"properties at once, such as color, image, origin and size, or repeat method."
+msgstr ""
+"<b>배경</b> 속기 CSS 속성은 색상, 이미지, 원점 및 크기 또는 반복 방법과 같은 "
+"모든 배경 스타일 속성을 한 번에 설정합니다."
+
+#: includes/ccwp-admin-settings.php:200
+msgid ""
+"The <b>background-color</b> CSS property sets the background color of an "
+"element."
+msgstr "<b>background-color</b> CSS 속성은 요소의 배경색을 설정합니다."
+
+#: includes/ccwp-admin-settings.php:204
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "다중 통화 위젯에서 통화 목록을 어떻게 정렬합니까?"
+
+#: includes/ccwp-admin-settings.php:205
+msgid ""
+"The attribute <b>sel-curr</b> contains a list of currency codes that you can "
+"sort yourself."
+msgstr ""
+"속성 <b>sel-curr</b> 에는 직접 정렬할 수 있는 통화 코드 목록이 포함되어 있습"
+"니다."
+
+#: includes/ccwp-admin-settings.php:206
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency "
+"will be displayed in the following order: Euro, Pound Sterling, Canadian and "
+"Australian dollar."
+msgstr ""
+"예를 들어, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> 는 통화가 유로, 스털링 파운"
+"드, 캐나다 및 호주 달러 순서로 표시됨을 의미합니다."
+
+#: includes/ccwp-admin-settings.php:209
+msgid "Language?"
+msgstr "언어?"
+
+#: includes/ccwp-admin-settings.php:210
+msgid ""
+"If you set by language how <b>Auto</b> your users will see the widget in "
+"their language. Determined by the client's browser."
+msgstr ""
+"언어별로 설정하면 사용자가 해당 언어로 위젯을 <b>자동</b> 으로 볼 수 있습니"
+"다. 클라이언트의 브라우저에 의해 결정됩니다."
+
+#: includes/ccwp-admin-settings.php:214
+msgid "What currencies and crypto are supported?"
+msgstr "지원되는 통화 및 암호화폐는 무엇입니까?"
+
+#: includes/ccwp-admin-settings.php:215
+msgid ""
+"A complete list of currencies and codes is available on the official website "
+"of the widget."
+msgstr ""
+"통화 및 코드의 전체 목록은 위젯의 공식 웹사이트에서 확인할 수 있습니다."
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "소스:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "출처"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "환율 계산기 위젯 ⚡ PRO"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "https://fx-w.io/currency-converter-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI "
+"extended version of Currency Converter widget, that can multiple currencies "
+"real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"환율 계산기 위젯 ⚡ PRO 는 여러 통화를 실시간으로 계산할 수 있고 클래식 위젯"
+"의 모든 기능을 갖춘 Currency Converter 위젯의 뷰티 UI 확장 버전과 함께 사용하"
+"기 쉬운 무료입니다."
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "https://currencyrate.today/"

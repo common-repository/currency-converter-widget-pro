@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 16:55+0300\n"
+"PO-Revision-Date: 2022-04-22 16:55+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:72
+msgid "Please rate our free"
+msgstr "कृपया आमचे विनामूल्य रेट करा"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Your valuable feedback will help us improve."
+msgstr "तुमचा मौल्यवान अभिप्राय आम्हाला सुधारण्यात मदत करेल."
+
+#: includes/ccwp-admin-notices.php:75
+msgid "It will only take a few minutes"
+msgstr "यास फक्त काही मिनिटे लागतील"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Rate it now"
+msgstr "आता रेट करा"
+
+#: includes/ccwp-admin-notices.php:76
+msgid "Rating"
+msgstr "रेटिंग"
+
+#: includes/ccwp-admin-settings.php:18 widget_init.php:111
+msgid "Settings"
+msgstr "सेटिंग्ज"
+
+#: includes/ccwp-admin-settings.php:21
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Language"
+msgstr "इंग्रजी"
+
+#: includes/ccwp-admin-settings.php:29
+msgid "Select gradient"
+msgstr "ग्रेडियंट निवडा"
+
+#: includes/ccwp-admin-settings.php:30
+msgid "Select color"
+msgstr "रंग निवडा"
+
+#: includes/ccwp-admin-settings.php:40
+msgid "Amount"
+msgstr "रक्कम"
+
+#: includes/ccwp-admin-settings.php:51
+msgid "Base / Quote"
+msgstr "बेस / कोट"
+
+#: includes/ccwp-admin-settings.php:66
+msgid "Style"
+msgstr "शैली"
+
+#: includes/ccwp-admin-settings.php:89
+msgid "Direction"
+msgstr "दिशा"
+
+#: includes/ccwp-admin-settings.php:98
+msgid "Format"
+msgstr "स्वरूप"
+
+#: includes/ccwp-admin-settings.php:117
+msgid "Options"
+msgstr "पर्याय"
+
+#: includes/ccwp-admin-settings.php:123
+msgid "Large"
+msgstr "मोठा"
+
+#: includes/ccwp-admin-settings.php:124
+msgid "Shadow"
+msgstr "सावली"
+
+#: includes/ccwp-admin-settings.php:125
+msgid "Symbol"
+msgstr "चिन्ह"
+
+#: includes/ccwp-admin-settings.php:130
+msgid "Grouping"
+msgstr "गटबाजी"
+
+#: includes/ccwp-admin-settings.php:131
+msgid "Border"
+msgstr "सीमा"
+
+#: includes/ccwp-admin-settings.php:132
+msgid "Signature"
+msgstr "स्वाक्षरी"
+
+#: includes/ccwp-admin-settings.php:134
+msgid "Radius"
+msgstr "त्रिज्या"
+
+#: includes/ccwp-admin-settings.php:149
+msgid "Widget:"
+msgstr "विजेट:"
+
+#: includes/ccwp-admin-settings.php:150
+msgid "Normal"
+msgstr "सामान्य"
+
+#: includes/ccwp-admin-settings.php:151
+msgid "Multi"
+msgstr "बहु"
+
+#: includes/ccwp-admin-settings.php:159
+msgid "Shortcode"
+msgstr "संक्षिप्त संकेत"
+
+#: includes/ccwp-admin-settings.php:175
+msgid "Help"
+msgstr "मदत करा"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Official website"
+msgstr "अधिकृत संकेतस्थळ"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Questions"
+msgstr "प्रश्न"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Online support"
+msgstr "ऑनलाइन समर्थन"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Supported by"
+msgstr "द्वारा समर्थित"
+
+#: includes/ccwp-admin-settings.php:180
+msgid "Fiat money"
+msgstr "फियाट पैसे"
+
+#: includes/ccwp-admin-settings.php:186
+msgid "Install"
+msgstr "स्थापित करा"
+
+#: includes/ccwp-admin-settings.php:188
+msgid "Generate shortcode from widget settings"
+msgstr "विजेट सेटिंग्जमधून शॉर्टकोड तयार करा"
+
+#: includes/ccwp-admin-settings.php:189
+msgid "Copy shortcode"
+msgstr "शॉर्टकोड कॉपी करा"
+
+#: includes/ccwp-admin-settings.php:190
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "पोस्ट, पृष्ठ किंवा स्वरूप <b>&gt;&gt;</b> विजेट्स वर जा"
+
+#: includes/ccwp-admin-settings.php:191
+msgid "Paste shortcode to field"
+msgstr "फील्डमध्ये शॉर्टकोड पेस्ट करा"
+
+#: includes/ccwp-admin-settings.php:193
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/ccwp-admin-settings.php:195
+msgid "How manage the colour of the widget?"
+msgstr "विजेटचा रंग कसा व्यवस्थापित करायचा?"
+
+#: includes/ccwp-admin-settings.php:196
+msgid "There are two attributes:"
+msgstr "दोन गुणधर्म आहेत:"
+
+#: includes/ccwp-admin-settings.php:199
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style properties at once, such as color, image, "
+"origin and size, or repeat method."
+msgstr ""
+"<b>पार्श्वभूमी</b> शॉर्टहँड CSS गुणधर्म एकाच वेळी सर्व पार्श्वभूमी शैली गुणधर्म सेट करते, जसे की रंग, प्रतिमा, मूळ आणि आकार किंवा पुनरावृत्ती "
+"पद्धत."
+
+#: includes/ccwp-admin-settings.php:200
+msgid "The <b>background-color</b> CSS property sets the background color of an element."
+msgstr "<b>पार्श्वभूमी-रंग</b> CSS गुणधर्म घटकाचा पार्श्वभूमी रंग सेट करते."
+
+#: includes/ccwp-admin-settings.php:204
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "बहु-चलन विजेटमध्ये चलन सूचीची क्रमवारी कशी लावायची?"
+
+#: includes/ccwp-admin-settings.php:205
+msgid "The attribute <b>sel-curr</b> contains a list of currency codes that you can sort yourself."
+msgstr "विशेषता <b>sel-curr</b> मध्ये चलन कोडची सूची असते जी तुम्ही स्वतः क्रमवारी लावू शकता."
+
+#: includes/ccwp-admin-settings.php:206
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency will be displayed in the following order: "
+"Euro, Pound Sterling, Canadian and Australian dollar."
+msgstr ""
+"उदाहरणार्थ, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> म्हणजे चलन खालील क्रमाने प्रदर्शित केले जाईल: युरो, पाउंड स्टर्लिंग, कॅनेडियन आणि "
+"ऑस्ट्रेलियन डॉलर."
+
+#: includes/ccwp-admin-settings.php:209
+msgid "Language?"
+msgstr "इंग्रजी?"
+
+#: includes/ccwp-admin-settings.php:210
+msgid ""
+"If you set by language how <b>Auto</b> your users will see the widget in their language. Determined by the client's "
+"browser."
+msgstr "तुम्ही <b>भाषेनुसार</b> सेट केल्यास तुमच्या वापरकर्त्यांना त्यांच्या भाषेत विजेट कसे दिसेल. क्लायंटच्या ब्राउझरद्वारे निर्धारित केले जाते."
+
+#: includes/ccwp-admin-settings.php:214
+msgid "What currencies and crypto are supported?"
+msgstr "कोणती चलने आणि क्रिप्टो समर्थित आहेत?"
+
+#: includes/ccwp-admin-settings.php:215
+msgid "A complete list of currencies and codes is available on the official website of the widget."
+msgstr "चलने आणि कोडची संपूर्ण यादी विजेटच्या अधिकृत वेबसाइटवर उपलब्ध आहे."
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "स्रोत:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "स्रोत"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "चलन परिवर्तक विजेट ⚡ PRO"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "https://fx-w.io/currency-converter-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI extended version of Currency Converter "
+"widget, that can multiple currencies real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"चलन परिवर्तक विजेट ⚡ PRO हे चलन कनवर्टर विजेटच्या सौंदर्य UI विस्तारित आवृत्तीसह एक विनामूल्य आणि वापरण्यास सुलभ आहे, जे एकाधिक चलनांची "
+"रिअल-टाइम गणना करू शकते आणि ज्यामध्ये क्लासिक विजेटची सर्व वैशिष्ट्ये आहेत."
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "https://currencyrate.today/"

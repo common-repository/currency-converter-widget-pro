@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 16:55+0300\n"
+"PO-Revision-Date: 2022-04-22 16:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:72
+msgid "Please rate our free"
+msgstr "ഞങ്ങളുടെ സൗജന്യമായി റേറ്റ് ചെയ്യുക"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Your valuable feedback will help us improve."
+msgstr "നിങ്ങളുടെ വിലയേറിയ ഫീഡ്‌ബാക്ക് ഞങ്ങളെ മെച്ചപ്പെടുത്താൻ സഹായിക്കും."
+
+#: includes/ccwp-admin-notices.php:75
+msgid "It will only take a few minutes"
+msgstr "ഇതിന് കുറച്ച് മിനിറ്റുകൾ മാത്രമേ എടുക്കൂ"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Rate it now"
+msgstr "ഇപ്പോൾ റേറ്റുചെയ്യുക"
+
+#: includes/ccwp-admin-notices.php:76
+msgid "Rating"
+msgstr "റേറ്റിംഗ്"
+
+#: includes/ccwp-admin-settings.php:18 widget_init.php:111
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങൾ"
+
+#: includes/ccwp-admin-settings.php:21
+msgid "Preview"
+msgstr "പ്രിവ്യൂ"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Language"
+msgstr "ഭാഷ"
+
+#: includes/ccwp-admin-settings.php:29
+msgid "Select gradient"
+msgstr "ഗ്രേഡിയന്റ് തിരഞ്ഞെടുക്കുക"
+
+#: includes/ccwp-admin-settings.php:30
+msgid "Select color"
+msgstr "നിറം തിരഞ്ഞെടുക്കുക"
+
+#: includes/ccwp-admin-settings.php:40
+msgid "Amount"
+msgstr "തുക"
+
+#: includes/ccwp-admin-settings.php:51
+msgid "Base / Quote"
+msgstr "അടിസ്ഥാനം / ഉദ്ധരണി"
+
+#: includes/ccwp-admin-settings.php:66
+msgid "Style"
+msgstr "ശൈലി"
+
+#: includes/ccwp-admin-settings.php:89
+msgid "Direction"
+msgstr "സംവിധാനം"
+
+#: includes/ccwp-admin-settings.php:98
+msgid "Format"
+msgstr "ഫോർമാറ്റ്"
+
+#: includes/ccwp-admin-settings.php:117
+msgid "Options"
+msgstr "ഓപ്ഷനുകൾ"
+
+#: includes/ccwp-admin-settings.php:123
+msgid "Large"
+msgstr "വലിയ"
+
+#: includes/ccwp-admin-settings.php:124
+msgid "Shadow"
+msgstr "നിഴൽ"
+
+#: includes/ccwp-admin-settings.php:125
+msgid "Symbol"
+msgstr "ചിഹ്നം"
+
+#: includes/ccwp-admin-settings.php:130
+msgid "Grouping"
+msgstr "ഗ്രൂപ്പിംഗ്"
+
+#: includes/ccwp-admin-settings.php:131
+msgid "Border"
+msgstr "അതിർത്തി"
+
+#: includes/ccwp-admin-settings.php:132
+msgid "Signature"
+msgstr "കയ്യൊപ്പ്"
+
+#: includes/ccwp-admin-settings.php:134
+msgid "Radius"
+msgstr "ആരം"
+
+#: includes/ccwp-admin-settings.php:149
+msgid "Widget:"
+msgstr "വിജറ്റ്:"
+
+#: includes/ccwp-admin-settings.php:150
+msgid "Normal"
+msgstr "സാധാരണ"
+
+#: includes/ccwp-admin-settings.php:151
+msgid "Multi"
+msgstr "മൾട്ടി"
+
+#: includes/ccwp-admin-settings.php:159
+msgid "Shortcode"
+msgstr "ഷോർട്ട്കോഡ്"
+
+#: includes/ccwp-admin-settings.php:175
+msgid "Help"
+msgstr "സഹായം"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Official website"
+msgstr "ഔദ്യോഗിക വെബ്സൈറ്റ്"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Questions"
+msgstr "ചോദ്യങ്ങൾ"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Online support"
+msgstr "ഓൺലൈൻ പിന്തുണ"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Supported by"
+msgstr "പിന്തുണയ്ക്കുന്ന"
+
+#: includes/ccwp-admin-settings.php:180
+msgid "Fiat money"
+msgstr "ഫിയറ്റ് പണം"
+
+#: includes/ccwp-admin-settings.php:186
+msgid "Install"
+msgstr "ഇൻസ്റ്റാൾ ചെയ്യുക"
+
+#: includes/ccwp-admin-settings.php:188
+msgid "Generate shortcode from widget settings"
+msgstr "വിജറ്റ് ക്രമീകരണങ്ങളിൽ നിന്ന് ഷോർട്ട് കോഡ് സൃഷ്ടിക്കുക"
+
+#: includes/ccwp-admin-settings.php:189
+msgid "Copy shortcode"
+msgstr "ഷോർട്ട് കോഡ് പകർത്തുക"
+
+#: includes/ccwp-admin-settings.php:190
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "പോസ്റ്റ്, പേജ് അല്ലെങ്കിൽ രൂപഭാവം <b>&gt;&gt;</b> വിഡ്ജറ്റുകൾ എന്നതിലേക്ക് പോകുക"
+
+#: includes/ccwp-admin-settings.php:191
+msgid "Paste shortcode to field"
+msgstr "ഫീൽഡിലേക്ക് ഷോർട്ട് കോഡ് ഒട്ടിക്കുക"
+
+#: includes/ccwp-admin-settings.php:193
+msgid "FAQ"
+msgstr "പതിവുചോദ്യങ്ങൾ"
+
+#: includes/ccwp-admin-settings.php:195
+msgid "How manage the colour of the widget?"
+msgstr "വിജറ്റിന്റെ നിറം നിയന്ത്രിക്കുന്നത് എങ്ങനെ?"
+
+#: includes/ccwp-admin-settings.php:196
+msgid "There are two attributes:"
+msgstr "രണ്ട് ആട്രിബ്യൂട്ടുകൾ ഉണ്ട്:"
+
+#: includes/ccwp-admin-settings.php:199
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style properties at once, "
+"such as color, image, origin and size, or repeat method."
+msgstr ""
+"<b>പശ്ചാത്തല</b> ഷോർട്ട്‌ഹാൻഡ് CSS പ്രോപ്പർട്ടി വർണ്ണം, ചിത്രം, ഉത്ഭവം, വലുപ്പം അല്ലെങ്കിൽ ആവർത്തിച്ചുള്ള രീതി "
+"എന്നിവ പോലെ എല്ലാ പശ്ചാത്തല ശൈലി പ്രോപ്പർട്ടികൾ ഒരേസമയം സജ്ജമാക്കുന്നു."
+
+#: includes/ccwp-admin-settings.php:200
+msgid "The <b>background-color</b> CSS property sets the background color of an element."
+msgstr "<b>പശ്ചാത്തല വർണ്ണ</b> CSS പ്രോപ്പർട്ടി ഒരു ഘടകത്തിന്റെ പശ്ചാത്തല നിറം സജ്ജമാക്കുന്നു."
+
+#: includes/ccwp-admin-settings.php:204
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "മൾട്ടി-കറൻസി വിജറ്റിൽ കറൻസി ലിസ്റ്റ് എങ്ങനെ അടുക്കുന്നു?"
+
+#: includes/ccwp-admin-settings.php:205
+msgid ""
+"The attribute <b>sel-curr</b> contains a list of currency codes that you can sort yourself."
+msgstr ""
+"<b>sel-curr</b> എന്ന ആട്രിബ്യൂട്ടിൽ നിങ്ങൾക്ക് സ്വയം അടുക്കാൻ കഴിയുന്ന കറൻസി കോഡുകളുടെ ഒരു ലിസ്റ്റ് "
+"അടങ്ങിയിരിക്കുന്നു."
+
+#: includes/ccwp-admin-settings.php:206
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency will be displayed "
+"in the following order: Euro, Pound Sterling, Canadian and Australian dollar."
+msgstr ""
+"ഉദാഹരണത്തിന്, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> എന്നാൽ കറൻസി ഇനിപ്പറയുന്ന ക്രമത്തിൽ പ്രദർശിപ്പിക്കും: "
+"യൂറോ, പൗണ്ട് സ്റ്റെർലിംഗ്, കനേഡിയൻ, ഓസ്‌ട്രേലിയൻ ഡോളർ."
+
+#: includes/ccwp-admin-settings.php:209
+msgid "Language?"
+msgstr "ഭാഷയോ?"
+
+#: includes/ccwp-admin-settings.php:210
+msgid ""
+"If you set by language how <b>Auto</b> your users will see the widget in their language. "
+"Determined by the client's browser."
+msgstr ""
+"നിങ്ങൾ ഭാഷ പ്രകാരം സജ്ജീകരിക്കുകയാണെങ്കിൽ, നിങ്ങളുടെ ഉപയോക്താക്കൾ അവരുടെ ഭാഷയിൽ <b>വിജറ്റ്</b> എങ്ങനെ "
+"കാണും. ക്ലയന്റ് ബ്രൗസർ നിർണ്ണയിക്കുന്നത്."
+
+#: includes/ccwp-admin-settings.php:214
+msgid "What currencies and crypto are supported?"
+msgstr "ഏത് കറൻസികളും ക്രിപ്റ്റോയും പിന്തുണയ്ക്കുന്നു?"
+
+#: includes/ccwp-admin-settings.php:215
+msgid ""
+"A complete list of currencies and codes is available on the official website of the widget."
+msgstr "കറൻസികളുടെയും കോഡുകളുടെയും പൂർണ്ണമായ ലിസ്റ്റ് വിജറ്റിന്റെ ഔദ്യോഗിക വെബ്സൈറ്റിൽ ലഭ്യമാണ്."
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "ഉറവിടം:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "ഉറവിടം"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "Currency Converter Widget ⚡ PRO"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "https://fx-w.io/currency-converter-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI extended "
+"version of Currency Converter widget, that can multiple currencies real-time calculation and "
+"which has all the features of a classic widget."
+msgstr ""
+"കറൻസി കൺവെർട്ടർ വിജറ്റ് ⚡ PRO എന്നത് സൌജന്യവും ഉപയോഗിക്കാൻ എളുപ്പമുള്ളതുമായ കറൻസി കൺവെർട്ടർ വിജറ്റിന്റെ "
+"ബ്യൂട്ടി യുഐ വിപുലീകൃത പതിപ്പാണ്, അത് ഒന്നിലധികം കറൻസികൾ തത്സമയ കണക്കുകൂട്ടാൻ കഴിയുന്നതും ഒരു ക്ലാസിക് വിജറ്റിന്റെ "
+"എല്ലാ സവിശേഷതകളും ഉള്ളതുമാണ്."
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "https://currencyrate.today/"

@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 16:58+0300\n"
+"PO-Revision-Date: 2022-04-22 16:58+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:72
+msgid "Please rate our free"
+msgstr "Խնդրում ենք գնահատել մեր անվճար"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Your valuable feedback will help us improve."
+msgstr "Ձեր արժեքավոր կարծիքը կօգնի մեզ կատարելագործվել:"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "It will only take a few minutes"
+msgstr "Դա կտևի ընդամենը մի քանի րոպե"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Rate it now"
+msgstr "Գնահատեք այն հիմա"
+
+#: includes/ccwp-admin-notices.php:76
+msgid "Rating"
+msgstr "Ռեիտինգ"
+
+#: includes/ccwp-admin-settings.php:18 widget_init.php:111
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+#: includes/ccwp-admin-settings.php:21
+msgid "Preview"
+msgstr "Նախնական դիտում"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Language"
+msgstr "Լեզուն"
+
+#: includes/ccwp-admin-settings.php:29
+msgid "Select gradient"
+msgstr "Ընտրեք գրադիենտ"
+
+#: includes/ccwp-admin-settings.php:30
+msgid "Select color"
+msgstr "Ընտրեք գույնը"
+
+#: includes/ccwp-admin-settings.php:40
+msgid "Amount"
+msgstr "Գումար"
+
+#: includes/ccwp-admin-settings.php:51
+msgid "Base / Quote"
+msgstr "Հիմք / Մեջբերում"
+
+#: includes/ccwp-admin-settings.php:66
+msgid "Style"
+msgstr "Ոճ"
+
+#: includes/ccwp-admin-settings.php:89
+msgid "Direction"
+msgstr "Ուղղություն"
+
+#: includes/ccwp-admin-settings.php:98
+msgid "Format"
+msgstr "Ձևաչափ"
+
+#: includes/ccwp-admin-settings.php:117
+msgid "Options"
+msgstr "Կարգավորումներ"
+
+#: includes/ccwp-admin-settings.php:123
+msgid "Large"
+msgstr "Մեծ"
+
+#: includes/ccwp-admin-settings.php:124
+msgid "Shadow"
+msgstr "Ստվեր"
+
+#: includes/ccwp-admin-settings.php:125
+msgid "Symbol"
+msgstr "Խորհրդանիշ"
+
+#: includes/ccwp-admin-settings.php:130
+msgid "Grouping"
+msgstr "Խմբավորում"
+
+#: includes/ccwp-admin-settings.php:131
+msgid "Border"
+msgstr "Սահման"
+
+#: includes/ccwp-admin-settings.php:132
+msgid "Signature"
+msgstr "Ստորագրություն"
+
+#: includes/ccwp-admin-settings.php:134
+msgid "Radius"
+msgstr "Շառավիղ"
+
+#: includes/ccwp-admin-settings.php:149
+msgid "Widget:"
+msgstr "Վիջեթ:"
+
+#: includes/ccwp-admin-settings.php:150
+msgid "Normal"
+msgstr "Նորմալ"
+
+#: includes/ccwp-admin-settings.php:151
+msgid "Multi"
+msgstr "Բազմաթիվ"
+
+#: includes/ccwp-admin-settings.php:159
+msgid "Shortcode"
+msgstr "Կարճ կոդը"
+
+#: includes/ccwp-admin-settings.php:175
+msgid "Help"
+msgstr "Օգնություն"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Official website"
+msgstr "Պաշտոնական կայք"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Questions"
+msgstr "Հարցեր"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Online support"
+msgstr "Առցանց աջակցություն"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Supported by"
+msgstr "Աջակցում է"
+
+#: includes/ccwp-admin-settings.php:180
+msgid "Fiat money"
+msgstr "Fiat փող"
+
+#: includes/ccwp-admin-settings.php:186
+msgid "Install"
+msgstr "Տեղադրել"
+
+#: includes/ccwp-admin-settings.php:188
+msgid "Generate shortcode from widget settings"
+msgstr "Ստեղծեք կարճ կոդ վիջեթի կարգավորումներից"
+
+#: includes/ccwp-admin-settings.php:189
+msgid "Copy shortcode"
+msgstr "Պատճենել կարճ կոդը"
+
+#: includes/ccwp-admin-settings.php:190
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "Գնացեք հաղորդագրություն, էջ կամ Արտաքին տեսք <b>&gt;&gt;</b> Վիջեթներ"
+
+#: includes/ccwp-admin-settings.php:191
+msgid "Paste shortcode to field"
+msgstr "Տեղադրեք կարճ կոդը դաշտում"
+
+#: includes/ccwp-admin-settings.php:193
+msgid "FAQ"
+msgstr "ՀՏՀ"
+
+#: includes/ccwp-admin-settings.php:195
+msgid "How manage the colour of the widget?"
+msgstr "Ինչպե՞ս կառավարել վիջեթի գույնը:"
+
+#: includes/ccwp-admin-settings.php:196
+msgid "There are two attributes:"
+msgstr "Երկու հատկանիշ կա."
+
+#: includes/ccwp-admin-settings.php:199
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style "
+"properties at once, such as color, image, origin and size, or repeat method."
+msgstr ""
+"<b>Ֆոնային</b> սղագրության CSS հատկությունը սահմանում է ֆոնի ոճի բոլոր "
+"հատկությունները միանգամից, ինչպիսիք են գույնը, պատկերը, ծագումը և չափը կամ "
+"կրկնելու մեթոդը:"
+
+#: includes/ccwp-admin-settings.php:200
+msgid ""
+"The <b>background-color</b> CSS property sets the background color of an "
+"element."
+msgstr "<b>Ֆոնի գույնի</b> CSS հատկությունը սահմանում է տարրի ֆոնի գույնը:"
+
+#: includes/ccwp-admin-settings.php:204
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "Ինչպե՞ս դասավորել արժույթի ցանկը բազմարժույթի վիդջեթում:"
+
+#: includes/ccwp-admin-settings.php:205
+msgid ""
+"The attribute <b>sel-curr</b> contains a list of currency codes that you can "
+"sort yourself."
+msgstr ""
+"<b>Sel-curr</b> հատկանիշը պարունակում է արժույթի կոդերի ցանկ, որոնք դուք "
+"կարող եք տեսակավորել ինքներդ:"
+
+#: includes/ccwp-admin-settings.php:206
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency "
+"will be displayed in the following order: Euro, Pound Sterling, Canadian and "
+"Australian dollar."
+msgstr ""
+"Օրինակ, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> նշանակում է, որ արժույթը "
+"կցուցադրվի հետևյալ հերթականությամբ՝ եվրո, ֆունտ ստեռլինգ, կանադական և "
+"ավստրալիական դոլար:"
+
+#: includes/ccwp-admin-settings.php:209
+msgid "Language?"
+msgstr "Լեզու?"
+
+#: includes/ccwp-admin-settings.php:210
+msgid ""
+"If you set by language how <b>Auto</b> your users will see the widget in "
+"their language. Determined by the client's browser."
+msgstr ""
+"Եթե ըստ լեզվի սահմանեք, թե ինչպես <b>Ավտոմատ կերպով</b> ձեր օգտատերերը "
+"կտեսնեն վիջեթն իրենց լեզվով: Որոշվում է հաճախորդի բրաուզերի կողմից:"
+
+#: includes/ccwp-admin-settings.php:214
+msgid "What currencies and crypto are supported?"
+msgstr "Ի՞նչ արժույթներ և կրիպտո են աջակցվում:"
+
+#: includes/ccwp-admin-settings.php:215
+msgid ""
+"A complete list of currencies and codes is available on the official website "
+"of the widget."
+msgstr ""
+"Արժույթների և կոդերի ամբողջական ցանկը հասանելի է վիջեթի պաշտոնական կայքում:"
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "Աղբյուր:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "Աղբյուր"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "Արժույթի փոխարկիչ վիջեթ ⚡ PRO"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "https://fx-w.io/currency-converter-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI "
+"extended version of Currency Converter widget, that can multiple currencies "
+"real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"Արժույթի փոխարկիչի վիջեթը ⚡ PRO-ն անվճար և հեշտ օգտագործվող արժույթի "
+"փոխարկիչ վիջեթի գեղեցկության UI ընդլայնված տարբերակն է, որը կարող է իրական "
+"ժամանակում հաշվարկել բազմաթիվ արժույթներ և ունի դասական վիջեթի բոլոր "
+"հատկանիշները:"
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "https://currencyrate.today/"

@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 16:51+0300\n"
+"PO-Revision-Date: 2022-04-22 16:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:72
+msgid "Please rate our free"
+msgstr "Молимо оцените наше бесплатно"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Your valuable feedback will help us improve."
+msgstr "Ваше драгоцене повратне информације ће нам помоћи да се побољшамо."
+
+#: includes/ccwp-admin-notices.php:75
+msgid "It will only take a few minutes"
+msgstr "То ће трајати само неколико минута"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Rate it now"
+msgstr "Оцените сада"
+
+#: includes/ccwp-admin-notices.php:76
+msgid "Rating"
+msgstr "Ocena"
+
+#: includes/ccwp-admin-settings.php:18 widget_init.php:111
+msgid "Settings"
+msgstr "Подешавања"
+
+#: includes/ccwp-admin-settings.php:21
+msgid "Preview"
+msgstr "Pregledaj"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Language"
+msgstr "Језик"
+
+#: includes/ccwp-admin-settings.php:29
+msgid "Select gradient"
+msgstr "Изаберите градијент"
+
+#: includes/ccwp-admin-settings.php:30
+msgid "Select color"
+msgstr "Изаберите боју"
+
+#: includes/ccwp-admin-settings.php:40
+msgid "Amount"
+msgstr "Износ"
+
+#: includes/ccwp-admin-settings.php:51
+msgid "Base / Quote"
+msgstr "База / Цитат"
+
+#: includes/ccwp-admin-settings.php:66
+msgid "Style"
+msgstr "Stil"
+
+#: includes/ccwp-admin-settings.php:89
+msgid "Direction"
+msgstr "Смер"
+
+#: includes/ccwp-admin-settings.php:98
+msgid "Format"
+msgstr "Format"
+
+#: includes/ccwp-admin-settings.php:117
+msgid "Options"
+msgstr "Opcije"
+
+#: includes/ccwp-admin-settings.php:123
+msgid "Large"
+msgstr "Велика"
+
+#: includes/ccwp-admin-settings.php:124
+msgid "Shadow"
+msgstr "Сенка"
+
+#: includes/ccwp-admin-settings.php:125
+msgid "Symbol"
+msgstr "Simbol"
+
+#: includes/ccwp-admin-settings.php:130
+msgid "Grouping"
+msgstr "Груписање"
+
+#: includes/ccwp-admin-settings.php:131
+msgid "Border"
+msgstr "Граница"
+
+#: includes/ccwp-admin-settings.php:132
+msgid "Signature"
+msgstr "Потпис"
+
+#: includes/ccwp-admin-settings.php:134
+msgid "Radius"
+msgstr "Радијус"
+
+#: includes/ccwp-admin-settings.php:149
+msgid "Widget:"
+msgstr "Виџет:"
+
+#: includes/ccwp-admin-settings.php:150
+msgid "Normal"
+msgstr "Нормална"
+
+#: includes/ccwp-admin-settings.php:151
+msgid "Multi"
+msgstr "Мулти"
+
+#: includes/ccwp-admin-settings.php:159
+msgid "Shortcode"
+msgstr "Кратки код"
+
+#: includes/ccwp-admin-settings.php:175
+msgid "Help"
+msgstr "Помоћ"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Official website"
+msgstr "Званични сајт"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Questions"
+msgstr "Питања"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Online support"
+msgstr "Подршка на мрежи"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Supported by"
+msgstr "Подржан од"
+
+#: includes/ccwp-admin-settings.php:180
+msgid "Fiat money"
+msgstr "Фиат новац"
+
+#: includes/ccwp-admin-settings.php:186
+msgid "Install"
+msgstr "Instaliraj"
+
+#: includes/ccwp-admin-settings.php:188
+msgid "Generate shortcode from widget settings"
+msgstr "Генеришите кратки код из подешавања виџета"
+
+#: includes/ccwp-admin-settings.php:189
+msgid "Copy shortcode"
+msgstr "Копирај кратки код"
+
+#: includes/ccwp-admin-settings.php:190
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "Идите на објаву, страницу или изглед <b>&gt;&gt;</b> Виџети"
+
+#: includes/ccwp-admin-settings.php:191
+msgid "Paste shortcode to field"
+msgstr "Налепите кратки код у поље"
+
+#: includes/ccwp-admin-settings.php:193
+msgid "FAQ"
+msgstr "ЧПП"
+
+#: includes/ccwp-admin-settings.php:195
+msgid "How manage the colour of the widget?"
+msgstr "Како управљати бојом виџета?"
+
+#: includes/ccwp-admin-settings.php:196
+msgid "There are two attributes:"
+msgstr "Постоје два атрибута:"
+
+#: includes/ccwp-admin-settings.php:199
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style "
+"properties at once, such as color, image, origin and size, or repeat method."
+msgstr ""
+"Својство <b>позадинског</b> скраћеног ЦСС-а поставља сва својства стила "
+"позадине одједном, као што су боја, слика, порекло и величина или метод "
+"понављања."
+
+#: includes/ccwp-admin-settings.php:200
+msgid ""
+"The <b>background-color</b> CSS property sets the background color of an "
+"element."
+msgstr "ЦСС својство <b>бацкгроунд-цолор</b> поставља боју позадине елемента."
+
+#: includes/ccwp-admin-settings.php:204
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "Како сортирати листу валута у виџету за више валута?"
+
+#: includes/ccwp-admin-settings.php:205
+msgid ""
+"The attribute <b>sel-curr</b> contains a list of currency codes that you can "
+"sort yourself."
+msgstr ""
+"Атрибут <b>сел-цурр</b> садржи листу кодова валута које можете сами да "
+"сортирате."
+
+#: includes/ccwp-admin-settings.php:206
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency "
+"will be displayed in the following order: Euro, Pound Sterling, Canadian and "
+"Australian dollar."
+msgstr ""
+"На пример, <b>сел-цурр=\"ЕУР,ГБП,ЦАД,АУД\"</b> значи да ће валута бити "
+"приказана следећим редоследом: евро, фунта стерлинга, канадски и "
+"аустралијски долар."
+
+#: includes/ccwp-admin-settings.php:209
+msgid "Language?"
+msgstr "Језик?"
+
+#: includes/ccwp-admin-settings.php:210
+msgid ""
+"If you set by language how <b>Auto</b> your users will see the widget in "
+"their language. Determined by the client's browser."
+msgstr ""
+"Ако подесите по језику како ће <b>аутоматски</b> ваши корисници видети виџет "
+"на свом језику. Одређује претраживач клијента."
+
+#: includes/ccwp-admin-settings.php:214
+msgid "What currencies and crypto are supported?"
+msgstr "Које валуте и криптовалуте су подржане?"
+
+#: includes/ccwp-admin-settings.php:215
+msgid ""
+"A complete list of currencies and codes is available on the official website "
+"of the widget."
+msgstr "Комплетна листа валута и кодова доступна је на званичном сајту виџета."
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "Извор:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "Izvor"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "Виџет за конвертор валута ⚡ ПРО"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "https://fx-w.io/currency-converter-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI "
+"extended version of Currency Converter widget, that can multiple currencies "
+"real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"Виџет за конверзију валута ⚡ ПРО је бесплатна и лака за коришћење са "
+"проширеном верзијом виџета за конверзију валута са лепотом корисничког "
+"интерфејса, која може да израчуна више валута у реалном времену и која има "
+"све карактеристике класичног виџета."
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "https://currencyrate.today/"

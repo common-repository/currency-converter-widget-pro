@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 17:00+0300\n"
+"PO-Revision-Date: 2022-04-22 17:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11 ? 0 : n==2 || n==12 ? 1 : "
+"(n>=3 && n<=10) || (n>=13 && n<=19) ? 2 : 3);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:72
+msgid "Please rate our free"
+msgstr "Feuch an toir thu meas air ar saor"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Your valuable feedback will help us improve."
+msgstr "Cuidichidh an fios air ais luachmhor agad sinn ag adhartachadh."
+
+#: includes/ccwp-admin-notices.php:75
+msgid "It will only take a few minutes"
+msgstr "Cha toir e ach beagan mhionaidean"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Rate it now"
+msgstr "Dèan measadh air a-nis"
+
+#: includes/ccwp-admin-notices.php:76
+msgid "Rating"
+msgstr "Rangachadh"
+
+#: includes/ccwp-admin-settings.php:18 widget_init.php:111
+msgid "Settings"
+msgstr "Suidhichidhean"
+
+#: includes/ccwp-admin-settings.php:21
+msgid "Preview"
+msgstr "Ro-shealladh"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Language"
+msgstr "Cànain"
+
+#: includes/ccwp-admin-settings.php:29
+msgid "Select gradient"
+msgstr "Tagh caisead"
+
+#: includes/ccwp-admin-settings.php:30
+msgid "Select color"
+msgstr "Tagh dath"
+
+#: includes/ccwp-admin-settings.php:40
+msgid "Amount"
+msgstr "Suim"
+
+#: includes/ccwp-admin-settings.php:51
+msgid "Base / Quote"
+msgstr "Bunait / Quote"
+
+#: includes/ccwp-admin-settings.php:66
+msgid "Style"
+msgstr "Stoidhle"
+
+#: includes/ccwp-admin-settings.php:89
+msgid "Direction"
+msgstr "Stiùir"
+
+#: includes/ccwp-admin-settings.php:98
+msgid "Format"
+msgstr "Cruth"
+
+#: includes/ccwp-admin-settings.php:117
+msgid "Options"
+msgstr "Roghainnean"
+
+#: includes/ccwp-admin-settings.php:123
+msgid "Large"
+msgstr "Mòr"
+
+#: includes/ccwp-admin-settings.php:124
+msgid "Shadow"
+msgstr "Sgàil"
+
+#: includes/ccwp-admin-settings.php:125
+msgid "Symbol"
+msgstr "Samhladh"
+
+#: includes/ccwp-admin-settings.php:130
+msgid "Grouping"
+msgstr "A' cruinneachadh"
+
+#: includes/ccwp-admin-settings.php:131
+msgid "Border"
+msgstr "Crìoch"
+
+#: includes/ccwp-admin-settings.php:132
+msgid "Signature"
+msgstr "Ainm-sgrìobhte"
+
+#: includes/ccwp-admin-settings.php:134
+msgid "Radius"
+msgstr "Radius"
+
+#: includes/ccwp-admin-settings.php:149
+msgid "Widget:"
+msgstr "Widget:"
+
+#: includes/ccwp-admin-settings.php:150
+msgid "Normal"
+msgstr "Abhaisteach"
+
+#: includes/ccwp-admin-settings.php:151
+msgid "Multi"
+msgstr "Loma"
+
+#: includes/ccwp-admin-settings.php:159
+msgid "Shortcode"
+msgstr "Còd goirid"
+
+#: includes/ccwp-admin-settings.php:175
+msgid "Help"
+msgstr "Cuideachadh"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Official website"
+msgstr "Làrach-lìn oifigeil a"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Questions"
+msgstr "Ceistean"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Online support"
+msgstr "Taic air-loidhne"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Supported by"
+msgstr "Le taic bho"
+
+#: includes/ccwp-admin-settings.php:180
+msgid "Fiat money"
+msgstr "Airgead Fiat"
+
+#: includes/ccwp-admin-settings.php:186
+msgid "Install"
+msgstr "Stàladh"
+
+#: includes/ccwp-admin-settings.php:188
+msgid "Generate shortcode from widget settings"
+msgstr "Cruthaich shortcode bho roghainnean widget"
+
+#: includes/ccwp-admin-settings.php:189
+msgid "Copy shortcode"
+msgstr "Dèan lethbhreac de shortcode"
+
+#: includes/ccwp-admin-settings.php:190
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "Rach gu post, duilleag no Coltas <b>&gt;&gt;</b> Widgets"
+
+#: includes/ccwp-admin-settings.php:191
+msgid "Paste shortcode to field"
+msgstr "Cuir a-steach shortcode don raon"
+
+#: includes/ccwp-admin-settings.php:193
+msgid "FAQ"
+msgstr "Ceistean Cumanta"
+
+#: includes/ccwp-admin-settings.php:195
+msgid "How manage the colour of the widget?"
+msgstr "Ciamar a stiùireas tu dath a’ widget?"
+
+#: includes/ccwp-admin-settings.php:196
+msgid "There are two attributes:"
+msgstr "Tha dà fheart ann:"
+
+#: includes/ccwp-admin-settings.php:199
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style "
+"properties at once, such as color, image, origin and size, or repeat method."
+msgstr ""
+"Bidh an togalach CSS làmh-ghoirid <b>cùl</b> -fhiosrachaidh a’ suidheachadh "
+"a h-uile togalach stoidhle cùil aig an aon àm, leithid dath, ìomhaigh, tùs "
+"agus meud, no modh ath-aithris."
+
+#: includes/ccwp-admin-settings.php:200
+msgid ""
+"The <b>background-color</b> CSS property sets the background color of an "
+"element."
+msgstr ""
+"Bidh an togalach CSS <b>dath-</b> cùil a’ suidheachadh dath cùl eileamaid."
+
+#: includes/ccwp-admin-settings.php:204
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "Ciamar a rèiticheas an liosta airgead anns a’ widget ioma-airgead?"
+
+#: includes/ccwp-admin-settings.php:205
+msgid ""
+"The attribute <b>sel-curr</b> contains a list of currency codes that you can "
+"sort yourself."
+msgstr ""
+"Anns a’ fheart <b>sel-curr</b> tha liosta de chòdan airgead as urrainn dhut "
+"thu fhèin a sheòrsachadh."
+
+#: includes/ccwp-admin-settings.php:206
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency "
+"will be displayed in the following order: Euro, Pound Sterling, Canadian and "
+"Australian dollar."
+msgstr ""
+"Mar eisimpleir, tha <b>sel-curr = \"EUR, GBP, CAD, AUD\"</b> a 'ciallachadh "
+"gum bi an airgead-crìche air a thaisbeanadh san òrdugh a leanas: Euro, Punnd "
+"Sterling, dolar Chanada agus Astràilia."
+
+#: includes/ccwp-admin-settings.php:209
+msgid "Language?"
+msgstr "Cànan?"
+
+#: includes/ccwp-admin-settings.php:210
+msgid ""
+"If you set by language how <b>Auto</b> your users will see the widget in "
+"their language. Determined by the client's browser."
+msgstr ""
+"Ma shuidhicheas tu a rèir cànan mar <b>Auto</b> chì an luchd-cleachdaidh "
+"agad am widget sa chànan aca. Air a dhearbhadh le brabhsair an neach-"
+"dèiligidh."
+
+#: includes/ccwp-admin-settings.php:214
+msgid "What currencies and crypto are supported?"
+msgstr "Dè na airgeadan-crìche agus crypto a tha a’ faighinn taic?"
+
+#: includes/ccwp-admin-settings.php:215
+msgid ""
+"A complete list of currencies and codes is available on the official website "
+"of the widget."
+msgstr ""
+"Tha liosta iomlan de airgeadan is chòdan ri fhaighinn air làrach-lìn "
+"oifigeil a’ widget."
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "Stòr:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "Stòr"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "Widget Tionndadh airgead ⚡ PRO"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "https://fx-w.io/currency-converter-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI "
+"extended version of Currency Converter widget, that can multiple currencies "
+"real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"The Currency Converter Widget ⚡ Tha PRO na dhreach leudaichte an-asgaidh "
+"agus furasta a chleachdadh le bòidhchead UI de widget Currency Converter, as "
+"urrainn àireamhachadh ioma-airgead fìor-ùine agus aig a bheil a h-uile feart "
+"de widget clasaigeach."
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "https://currencyrate.today/"

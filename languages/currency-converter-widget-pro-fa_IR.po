@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 15:47+0300\n"
+"PO-Revision-Date: 2022-04-22 17:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:65
+msgid "Please rate our free"
+msgstr "لطفا به رایگان ما امتیاز دهید"
+
+#: includes/ccwp-admin-notices.php:68
+msgid "Your valuable feedback will help us improve."
+msgstr "بازخورد ارزشمند شما به پیشرفت ما کمک می کند."
+
+#: includes/ccwp-admin-notices.php:68
+msgid "It will only take a few minutes"
+msgstr "فقط چند دقیقه طول می کشد"
+
+#: includes/ccwp-admin-notices.php:68
+msgid "Rate it now"
+msgstr "همین الان امتیاز دهید"
+
+#: includes/ccwp-admin-notices.php:69
+msgid "Rating"
+msgstr "امتیاز"
+
+#: includes/ccwp-admin-settings.php:6 widget_init.php:111
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/ccwp-admin-settings.php:9
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: includes/ccwp-admin-settings.php:16
+msgid "Language"
+msgstr "زبان"
+
+#: includes/ccwp-admin-settings.php:17
+msgid "Select gradient"
+msgstr "گرادیان را انتخاب کنید"
+
+#: includes/ccwp-admin-settings.php:18
+msgid "Select color"
+msgstr "انتخاب رنگ"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Amount"
+msgstr "مقدار"
+
+#: includes/ccwp-admin-settings.php:39
+msgid "Base / Quote"
+msgstr "پایگاه / نقل قول"
+
+#: includes/ccwp-admin-settings.php:54
+msgid "Style"
+msgstr "استایل"
+
+#: includes/ccwp-admin-settings.php:77
+msgid "Direction"
+msgstr "جهت"
+
+#: includes/ccwp-admin-settings.php:86
+msgid "Format"
+msgstr "فرمت"
+
+#: includes/ccwp-admin-settings.php:105
+msgid "Options"
+msgstr "گزینه ها"
+
+#: includes/ccwp-admin-settings.php:111
+msgid "Large"
+msgstr "بزرگ"
+
+#: includes/ccwp-admin-settings.php:112
+msgid "Shadow"
+msgstr "سایه"
+
+#: includes/ccwp-admin-settings.php:113
+msgid "Symbol"
+msgstr "نماد"
+
+#: includes/ccwp-admin-settings.php:118
+msgid "Grouping"
+msgstr "گروه بندی"
+
+#: includes/ccwp-admin-settings.php:119
+msgid "Border"
+msgstr "حاشیه"
+
+#: includes/ccwp-admin-settings.php:120
+msgid "Signature"
+msgstr "امضا"
+
+#: includes/ccwp-admin-settings.php:122
+msgid "Radius"
+msgstr "شعاع"
+
+#: includes/ccwp-admin-settings.php:137
+msgid "Widget:"
+msgstr "ابزارک:"
+
+#: includes/ccwp-admin-settings.php:138
+msgid "Normal"
+msgstr "معمولی"
+
+#: includes/ccwp-admin-settings.php:139
+msgid "Multi"
+msgstr "چند"
+
+#: includes/ccwp-admin-settings.php:147
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: includes/ccwp-admin-settings.php:163
+msgid "Help"
+msgstr "کمک"
+
+#: includes/ccwp-admin-settings.php:165
+msgid "Official website"
+msgstr "وب‌سایت رسمی"
+
+#: includes/ccwp-admin-settings.php:166
+msgid "Questions"
+msgstr "سوالات"
+
+#: includes/ccwp-admin-settings.php:166
+msgid "Online support"
+msgstr "پشتیبانی آنلاین"
+
+#: includes/ccwp-admin-settings.php:167
+msgid "Supported by"
+msgstr "پشتیبانی شده توسط"
+
+#: includes/ccwp-admin-settings.php:168
+msgid "Fiat money"
+msgstr "نماد فیات"
+
+#: includes/ccwp-admin-settings.php:174
+msgid "Install"
+msgstr "نصب"
+
+#: includes/ccwp-admin-settings.php:176
+msgid "Generate shortcode from widget settings"
+msgstr "ایجاد کد کوتاه از تنظیمات ویجت"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Copy shortcode"
+msgstr "کپی کد کوتاه"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "به پست، صفحه یا ظاهر <b>&gt;&gt;</b> ابزارک ها بروید"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Paste shortcode to field"
+msgstr "کد کوتاه را در فیلد قرار دهید"
+
+#: includes/ccwp-admin-settings.php:181
+msgid "FAQ"
+msgstr "سوالات متداول"
+
+#: includes/ccwp-admin-settings.php:183
+msgid "How manage the colour of the widget?"
+msgstr "چگونه رنگ ویجت را مدیریت کنیم؟"
+
+#: includes/ccwp-admin-settings.php:184
+msgid "There are two attributes:"
+msgstr "دو ویژگی وجود دارد:"
+
+#: includes/ccwp-admin-settings.php:187
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style "
+"properties at once, such as color, image, origin and size, or repeat method."
+msgstr ""
+"ویژگی <b>پس‌زمینه</b> CSS مختصر همه ویژگی‌های سبک پس‌زمینه، مانند رنگ، تصویر، "
+"مبدا و اندازه یا روش تکرار را به‌طور همزمان تنظیم می‌کند."
+
+#: includes/ccwp-admin-settings.php:188
+msgid ""
+"The <b>background-color</b> CSS property sets the background color of an "
+"element."
+msgstr "ویژگی <b>background-color</b> CSS رنگ پس‌زمینه یک عنصر را تعیین می‌کند."
+
+#: includes/ccwp-admin-settings.php:192
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "فهرست ارز در ویجت چند ارزی چگونه مرتب می شود؟"
+
+#: includes/ccwp-admin-settings.php:193
+msgid ""
+"The attribute <b>sel-curr</b> contains a list of currency codes that you can "
+"sort yourself."
+msgstr ""
+"ویژگی <b>sel-curr</b> حاوی لیستی از کدهای ارز است که می توانید خودتان آنها را "
+"مرتب کنید."
+
+#: includes/ccwp-admin-settings.php:194
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency will "
+"be displayed in the following order: Euro, Pound Sterling, Canadian and "
+"Australian dollar."
+msgstr ""
+"به عنوان مثال، <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> به این معنی است که ارز به "
+"ترتیب زیر نمایش داده می شود: یورو، پوند استرلینگ، دلار کانادا و استرالیا."
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "منبع:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "منبع"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "ویجت مبدل ارز ⚡ PRO"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "‫https://fx-w.io/currency-converter-pro"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI "
+"extended version of Currency Converter widget, that can multiple currencies "
+"real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"ویجت مبدل ارز ⚡ PRO یک نسخه رایگان و آسان برای استفاده با رابط کاربری زیبایی "
+"از ویجت مبدل ارز است که می‌تواند چندین ارز را در زمان واقعی محاسبه کند و تمام "
+"ویژگی‌های یک ویجت کلاسیک را دارد."
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "‫CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "‫https://currencyrate.today"

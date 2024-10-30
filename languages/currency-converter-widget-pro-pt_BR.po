@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Converter Widget ⚡ PRO\n"
+"POT-Creation-Date: 2022-04-22 16:53+0300\n"
+"PO-Revision-Date: 2022-04-22 16:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: widget_init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/ccwp-admin-notices.php:72
+msgid "Please rate our free"
+msgstr "Por favor, classifique nosso"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Your valuable feedback will help us improve."
+msgstr "Seu valioso feedback nos ajudará a melhorar."
+
+#: includes/ccwp-admin-notices.php:75
+msgid "It will only take a few minutes"
+msgstr "Levará apenas alguns minutos"
+
+#: includes/ccwp-admin-notices.php:75
+msgid "Rate it now"
+msgstr "Avalie-o Agora"
+
+#: includes/ccwp-admin-notices.php:76
+msgid "Rating"
+msgstr "Avaliação"
+
+#: includes/ccwp-admin-settings.php:18 widget_init.php:111
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/ccwp-admin-settings.php:21
+msgid "Preview"
+msgstr "Visualização"
+
+#: includes/ccwp-admin-settings.php:28
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/ccwp-admin-settings.php:29
+msgid "Select gradient"
+msgstr "Selecione o gradiente"
+
+#: includes/ccwp-admin-settings.php:30
+msgid "Select color"
+msgstr "Escolher Cor"
+
+#: includes/ccwp-admin-settings.php:40
+msgid "Amount"
+msgstr "Valor"
+
+#: includes/ccwp-admin-settings.php:51
+msgid "Base / Quote"
+msgstr "Base / Citação"
+
+#: includes/ccwp-admin-settings.php:66
+msgid "Style"
+msgstr "Estilo"
+
+#: includes/ccwp-admin-settings.php:89
+msgid "Direction"
+msgstr "Direção"
+
+#: includes/ccwp-admin-settings.php:98
+msgid "Format"
+msgstr "Formato"
+
+#: includes/ccwp-admin-settings.php:117
+msgid "Options"
+msgstr "Opções"
+
+#: includes/ccwp-admin-settings.php:123
+msgid "Large"
+msgstr "Grande"
+
+#: includes/ccwp-admin-settings.php:124
+msgid "Shadow"
+msgstr "Sombra"
+
+#: includes/ccwp-admin-settings.php:125
+msgid "Symbol"
+msgstr "Símbolo"
+
+#: includes/ccwp-admin-settings.php:130
+msgid "Grouping"
+msgstr "Agrupar"
+
+#: includes/ccwp-admin-settings.php:131
+msgid "Border"
+msgstr "Borda"
+
+#: includes/ccwp-admin-settings.php:132
+msgid "Signature"
+msgstr "Assinatura"
+
+#: includes/ccwp-admin-settings.php:134
+msgid "Radius"
+msgstr "Raio"
+
+#: includes/ccwp-admin-settings.php:149
+msgid "Widget:"
+msgstr "Widget:"
+
+#: includes/ccwp-admin-settings.php:150
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/ccwp-admin-settings.php:151
+msgid "Multi"
+msgstr "Múltiplos"
+
+#: includes/ccwp-admin-settings.php:159
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/ccwp-admin-settings.php:175
+msgid "Help"
+msgstr "Ajuda"
+
+#: includes/ccwp-admin-settings.php:177
+msgid "Official website"
+msgstr "Site Oficial"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Questions"
+msgstr "Questões"
+
+#: includes/ccwp-admin-settings.php:178
+msgid "Online support"
+msgstr "Apoio on-line"
+
+#: includes/ccwp-admin-settings.php:179
+msgid "Supported by"
+msgstr "Apoiado por"
+
+#: includes/ccwp-admin-settings.php:180
+msgid "Fiat money"
+msgstr "Dinheiro Fiat"
+
+#: includes/ccwp-admin-settings.php:186
+msgid "Install"
+msgstr "Instalar"
+
+#: includes/ccwp-admin-settings.php:188
+msgid "Generate shortcode from widget settings"
+msgstr "Gerar um atalho a partir de configurações de widget"
+
+#: includes/ccwp-admin-settings.php:189
+msgid "Copy shortcode"
+msgstr "Copiar Shortcode"
+
+#: includes/ccwp-admin-settings.php:190
+msgid "Go to post, page or Appearance <b>&gt;&gt;</b> Widgets"
+msgstr "Ir ao correio, página ou Aspecto <b>&gt;&gt;</b> Widgets"
+
+#: includes/ccwp-admin-settings.php:191
+msgid "Paste shortcode to field"
+msgstr "Colar o atalho para o campo"
+
+#: includes/ccwp-admin-settings.php:193
+msgid "FAQ"
+msgstr "Perguntas Frequentes"
+
+#: includes/ccwp-admin-settings.php:195
+msgid "How manage the colour of the widget?"
+msgstr "Como administrar a cor do widget?"
+
+#: includes/ccwp-admin-settings.php:196
+msgid "There are two attributes:"
+msgstr "Há dois atributos:"
+
+#: includes/ccwp-admin-settings.php:199
+msgid ""
+"The <b>background</b> shorthand CSS property sets all background style "
+"properties at once, such as color, image, origin and size, or repeat method."
+msgstr ""
+"O estenógrafo do CSS define de uma só vez todas as propriedades do estilo de "
+"<b>fundo</b>, tais como cor, imagem, origem e tamanho, ou método de "
+"repetição."
+
+#: includes/ccwp-admin-settings.php:200
+msgid ""
+"The <b>background-color</b> CSS property sets the background color of an "
+"element."
+msgstr ""
+"A <b>cor de fundo</b> da propriedade do CSS define a cor de fundo de um "
+"elemento."
+
+#: includes/ccwp-admin-settings.php:204
+msgid "How sort the currency list in the multi-currency widget?"
+msgstr "Como ordenar a lista de moedas no widget multimoedas?"
+
+#: includes/ccwp-admin-settings.php:205
+msgid ""
+"The attribute <b>sel-curr</b> contains a list of currency codes that you can "
+"sort yourself."
+msgstr ""
+"O atributo <b>sel-currency</b> contém uma lista de códigos monetários que o "
+"senhor mesmo pode classificar."
+
+#: includes/ccwp-admin-settings.php:206
+msgid ""
+"For example, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> means that the currency "
+"will be displayed in the following order: Euro, Pound Sterling, Canadian and "
+"Australian dollar."
+msgstr ""
+"Por exemplo, <b>sel-curr=\"EUR,GBP,CAD,AUD\"</b> significa que a moeda será "
+"afixada na seguinte ordem: Euro, libra esterlina, dólar canadense e "
+"australiano."
+
+#: includes/ccwp-admin-settings.php:209
+msgid "Language?"
+msgstr "Idioma?"
+
+#: includes/ccwp-admin-settings.php:210
+msgid ""
+"If you set by language how <b>Auto</b> your users will see the widget in "
+"their language. Determined by the client's browser."
+msgstr ""
+"Se o senhor definir por idioma como seus usuários verão o widget no idioma "
+"deles. Determinado pelo navegador do cliente."
+
+#: includes/ccwp-admin-settings.php:214
+msgid "What currencies and crypto are supported?"
+msgstr "Que moedas e criptogramas são suportados?"
+
+#: includes/ccwp-admin-settings.php:215
+msgid ""
+"A complete list of currencies and codes is available on the official website "
+"of the widget."
+msgstr ""
+"Uma lista completa de moedas e códigos está disponível no site oficial do "
+"widget."
+
+#: widget_init.php:98
+msgid "Source:"
+msgstr "Fonte:"
+
+#: widget_init.php:100
+msgid "Source"
+msgstr "Fonte"
+
+#. Plugin Name of the plugin/theme
+msgid "Currency Converter Widget ⚡ PRO"
+msgstr "Widget conversor de moeda ⚡ PRO"
+
+#. Plugin URI of the plugin/theme
+msgid "https://fx-w.io/currency-converter-pro/"
+msgstr "https://fx-w.io/currency-converter-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Currency Converter Widget ⚡ PRO is a free and easy-to-use with beauty UI "
+"extended version of Currency Converter widget, that can multiple currencies "
+"real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"O widget conversor de moedas ⚡ PRO é um widget gratuito e fácil de usar com "
+"a beleza da versão ampliada da UI, que pode calcular várias moedas em tempo "
+"real e que tem todas as características de um widget clássico."
+
+#. Author of the plugin/theme
+msgid "CurrencyRate.today"
+msgstr "CurrencyRate.today"
+
+#. Author URI of the plugin/theme
+msgid "https://currencyrate.today/"
+msgstr "https://currencyrate.today/"
